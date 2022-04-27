@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+This is Jaime Moreno, i was born at Zihuatanejo, life moved me to Mexico City...
+
 <!--
 **Xsaleon/xsaleon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
