@@ -2,7 +2,7 @@
 
 This is Jaime Moreno, i was born at Zihuatanejo, life moved me to Mexico City, software development and photography are my passions.
 
-I'm currently working on some serverless stuff, I love cloud-based development, especially when it's based on serverless, TS, Py, GOlang, are my new favlors.
+I'm currently working on some serverless stuff, I love cloud-based development, especially when it's based on serverless, TS, Py, GOlang, are my new flavors.
 
 
 <!--
